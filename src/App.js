@@ -40,7 +40,7 @@ const App = () => {
 
   return (
     <ThemeProvider theme={theme}>
-      <Router>
+      <Router basename="/amanrawat98.github.io">
         <GlobalStyle />
         <Header />
         <Routes>
