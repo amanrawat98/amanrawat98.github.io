@@ -39,10 +39,13 @@ const App = () => {
   };
 
   return (
-    <ThemeProvider theme={theme}>
+    <Header />
+
+    /*
+   <ThemeProvider theme={theme}>
       <Router basename="/amanrawat98.github.io">
         <GlobalStyle />
-        <Header />
+
         <Routes>
           <Route path="/amanrawat98.github.io" element={<Home />} />
           <Route path="/about" element={<About />} />
@@ -54,7 +57,7 @@ const App = () => {
         </Routes>
         <Footer />
       </Router>
-    </ThemeProvider>
+    </ThemeProvider> */
   );
 };
 
