@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/amanrawat98.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/amanrawat98.github.io/static/js/main.d4c36b65.js",
+    "main.js": "/amanrawat98.github.io/static/js/main.4f78d556.js",
     "static/js/787.5c65c091.chunk.js": "/amanrawat98.github.io/static/js/787.5c65c091.chunk.js",
     "index.html": "/amanrawat98.github.io/index.html",
     "main.e6c13ad2.css.map": "/amanrawat98.github.io/static/css/main.e6c13ad2.css.map",
-    "main.d4c36b65.js.map": "/amanrawat98.github.io/static/js/main.d4c36b65.js.map",
+    "main.4f78d556.js.map": "/amanrawat98.github.io/static/js/main.4f78d556.js.map",
     "787.5c65c091.chunk.js.map": "/amanrawat98.github.io/static/js/787.5c65c091.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d4c36b65.js"
+    "static/js/main.4f78d556.js"
   ]
 }
