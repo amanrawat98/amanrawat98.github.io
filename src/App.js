@@ -46,7 +46,7 @@ const App = () => {
     <Header />
 
         <Routes>
-          <Route path="/amanrawat98.github.io" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/products" element={<Products />} />
           <Route path="/contact" element={<Contact />} />
