@@ -41,7 +41,7 @@ const App = () => {
   return (
     
    <ThemeProvider theme={theme}>
-      <Router basename="/amanrawat98.github.io">
+      <Router >
         <GlobalStyle />
     <Header />
 
